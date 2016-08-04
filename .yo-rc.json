@@ -1,0 +1,10 @@
+{
+  "generator-spring-rest": {
+    "baseName": "addcarws",
+    "packageName": "com.rta.ws.addcar",
+    "packageNameGenerated": "com.rta.ws.addcar.generated",
+    "dockerrootrepo": "reasonthearchitect",
+    "zookeeperurl": "172.31.55.162",
+    "kafkaurl": "172.31.55.162"
+  }
+}
